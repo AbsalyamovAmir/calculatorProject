@@ -1,0 +1,6 @@
+﻿  CalculatorProject.cpp
+C:\Users\Absal\source\repos\CalculatorProject\CalculatorProject\CalculatorProject.cpp(150,22): warning C4101: AC: неиспользованная локальная переменная
+C:\Users\Absal\source\repos\CalculatorProject\CalculatorProject\CalculatorProject.cpp(295,11): warning C4101: t: неиспользованная локальная переменная
+C:\Users\Absal\source\repos\CalculatorProject\CalculatorProject\CalculatorProject.cpp(319,17): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Absal\source\repos\CalculatorProject\CalculatorProject\CalculatorProject.cpp(318,8): warning C4101: t: неиспользованная локальная переменная
+  CalculatorProject.vcxproj -> C:\Users\Absal\source\repos\CalculatorProject\x64\Debug\CalculatorProject.exe
